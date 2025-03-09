@@ -19,6 +19,7 @@ Feature: Validate Login page
     Examples:
     |Email      |Password|
     |b@gmail.com|90|
+    |c@gmail.com|100|
     
    
     
