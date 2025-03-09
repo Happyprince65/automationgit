@@ -4,7 +4,7 @@ Feature: Validate Login page
 	Background:
 		Given I will open bestbuy webiste
     And i click on account button from main menu
-    Then i click on signin button
+   
     
     
   Scenario: Title of your scenario
